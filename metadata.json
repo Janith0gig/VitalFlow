@@ -1,0 +1,6 @@
+{
+  "name": "Cross-Match Tracker",
+  "description": "Automated blood bank inventory management, donor tracking, expiration alerts, and rare blood type cross-matching with Supabase backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
